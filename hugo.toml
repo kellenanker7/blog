@@ -1,6 +1,6 @@
 baseURL = 'https://kellenanker.com/'
 languageCode = 'en-us'
-title = "Modernizing Infra Tooling"
+title = "Modernizing Infrastructure"
 theme = 'ananke'
 copyright = 'Kellen Anker'
 
