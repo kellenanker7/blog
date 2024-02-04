@@ -1,11 +1,10 @@
 baseURL = 'https://kellenanker.com/'
 languageCode = 'en-us'
-title = "Kellen Anker's DevOps Blog"
+title = "Modernizing Infra Tooling"
 theme = 'ananke'
+copyright = 'Kellen Anker'
 
 [deployment]
-
 [[deployment.targets]]
 name = "dev"
-
 URL = "s3://kellenanker.com?region=us-east-1"
