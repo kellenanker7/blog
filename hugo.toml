@@ -3,8 +3,3 @@ languageCode = 'en-us'
 title = "Modernizing Infrastructure"
 theme = 'ananke'
 copyright = 'Kellen Anker'
-
-[deployment]
-[[deployment.targets]]
-name = "dev"
-URL = "s3://kellenanker.com?region=us-east-1"
